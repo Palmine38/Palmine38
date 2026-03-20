@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Palmine38/Palmine38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Amateur Developer passionate about building and learning new things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- 🐍 Python
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+
+---
+
+## 📚 Currently Learning
+- Node.js
+- APIs & Backend development
+
+---
+
+## 🎯 Goals
+- Become a Fullstack Developer
+- Build useful and creative projects for me and the society for free
+
+---
+
+## 🛠️ Tools
+- Git & GitHub
+- VS Code
+
+---
+
+---
+
+## 🔥 Fun Fact
+I learn by building real projects 🚀
+
+---
+
+⭐️ Feel free to check out my repositories!
