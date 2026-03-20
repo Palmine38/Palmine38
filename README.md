@@ -29,11 +29,4 @@
 
 ---
 
----
-
-## 🔥 Fun Fact
-I learn by building real projects 🚀
-
----
-
 ⭐️ Feel free to check out my repositories!
