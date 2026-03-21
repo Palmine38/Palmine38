@@ -1,32 +1,32 @@
-## Hi there 👋
+## Salut 👋  
 
-💻 Amateur Developer passionate about building and learning new things
-
----
-
-## 🚀 Tech Stack
-- 🐍 Python
-- ⚛️ React.js
-- 🎨 Tailwind CSS
+💻 Développeur amateur passionné par la création et l’apprentissage de nouvelles choses  
 
 ---
 
-## 📚 Currently Learning
-- Node.js
-- APIs & Backend development
+## 🚀 Stack technique  
+- 🐍 Python  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
 
 ---
 
-## 🎯 Goals
-- Become a Fullstack Developer
-- Build useful and creative projects for me and the society for free
+## 📚 En cours d’apprentissage  
+- Node.js  
+- APIs & développement backend  
 
 ---
 
-## 🛠️ Tools
-- Git & GitHub
-- VS Code
+## 🎯 Objectifs  
+- Devenir développeur fullstack  
+- Créer des projets utiles et créatifs pour moi et pour la société, gratuitement  
 
 ---
 
-⭐️ Feel free to check out my repositories!
+## 🛠️ Outils  
+- Git & GitHub  
+- VS Code  
+
+---
+
+⭐️ N’hésite pas à jeter un œil à mes repos !
