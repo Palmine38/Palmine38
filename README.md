@@ -1,32 +1,12 @@
-## Salut 👋  
-
-💻 Développeur amateur passionné par la création et l’apprentissage de nouvelles choses  
-
----
-
-## 🚀 Stack technique  
-- 🐍 Python  
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
+## Développeur amateur fullstack
+[![GreGo](https://img.shields.io/badge/Gre-Go-blue?logo=github)](https://github.com/Palmine38/GreGo)
 
 ---
+## Stack technique  
+- Python  
+- React.js  
+- Tailwind CSS 
 
-## 📚 En cours d’apprentissage  
-- Node.js  
-- APIs & développement backend  
-
----
-
-## 🎯 Objectifs  
-- Devenir développeur fullstack  
-- Créer des projets utiles et créatifs pour moi et pour la société, gratuitement  
-
----
-
-## 🛠️ Outils  
-- Git & GitHub  
-- VS Code  
-
----
-
+## Créations
+- [GreGo](https://github.com/Palmine38/GreGo)
 ⭐️ N’hésite pas à jeter un œil à mes repos !
